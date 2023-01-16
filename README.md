@@ -1,4 +1,4 @@
-# TraceRoute-C-
+# TraceRoute-C##
 Custom TraceRoute in C#
 
 This is a tool which I made because I don't like the usual TraceRoute on Windows Terminal. 
